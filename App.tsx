@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
-      <p>The Project is developer by SOnali :)</p>
+      <p>The Project is developer :)</p>
     </div>
   );
 }
